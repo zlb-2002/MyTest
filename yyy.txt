@@ -1,0 +1,20 @@
+1:package Demo_cahrIO;
+2:
+3:import java.io.*;
+4:
+5:public class Demo4_Buffered {
+6:
+7:    public static void main(String[] args) throws IOException {
+8:        BufferedReader br = new BufferedReader(new FileReader("xxx.txt"));
+9:        BufferedWriter bw = new BufferedWriter(new FileWriter("yyy.txt"));
+10:
+11:        String line;
+12:        while((line = br.readLine()) != null) {
+13:            System.out.println(line);
+14:        }
+15:
+16:        br.close();
+17:        bw.close();
+18:
+19:    }
+20:}

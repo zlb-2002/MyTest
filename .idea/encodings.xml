@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Internet/src/TCP/Demo1_Client.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Internet/src/TCP/Demo1_Server.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Internet/src/TCP/Demo2_Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Internet/src/socket" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Internet/src/socket/Demo4_GUIChat.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/config.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gbk.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thread/src/Thread3/Demo1_Notify.java" charset="UTF-8" />
+  </component>
+</project>

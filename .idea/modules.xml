@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IO/IO.iml" filepath="$PROJECT_DIR$/IO/IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Internet/Internet.iml" filepath="$PROJECT_DIR$/Internet/Internet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaText/JavaText.iml" filepath="$PROJECT_DIR$/JavaText/JavaText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OtherStream/OtherStream.iml" filepath="$PROJECT_DIR$/OtherStream/OtherStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflect/Reflect.iml" filepath="$PROJECT_DIR$/Reflect/Reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service/Service.iml" filepath="$PROJECT_DIR$/Service/Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IO/Test.iml" filepath="$PROJECT_DIR$/IO/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newProject.iml" filepath="$PROJECT_DIR$/newProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_file/test_file.iml" filepath="$PROJECT_DIR$/test_file/test_file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
+    </modules>
+  </component>
+</project>
