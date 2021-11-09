@@ -1,7 +1,7 @@
 package Test.Tree;
 
 class TreeNode {
-    int val;
+    char val;
     TreeNode left;
     TreeNode right;
 
