@@ -1,5 +1,7 @@
 package leetcode;
 
+import java.util.*;
+
 public class LengthOfLIS {
 
     /*最长递增子序列 之前做过这道题，但是没理解，现在再重新做一遍
@@ -24,7 +26,8 @@ public class LengthOfLIS {
             }
             max = Math.max(max, dp[i]);
         }
+        List<Integer> list = new ArrayList<>();
+        
         return max;
     }
-
 }
