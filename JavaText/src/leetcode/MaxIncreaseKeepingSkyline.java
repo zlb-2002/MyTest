@@ -20,6 +20,7 @@ public class MaxIncreaseKeepingSkyline {
             for (int[] ints : grid)
                 max = Math.max(max, ints[i]);
             nums2[i] = max;
+
             }
         int count1 = 0;
         int count = 0;
